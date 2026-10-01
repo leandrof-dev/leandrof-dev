@@ -27,6 +27,6 @@ Aberto a oportunidades de estágio em desenvolvimento. [LinkedIn](https://www.li
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrof-dev&show_icons=true&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=leandrof-dev&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrof-dev&show_icons=true&theme=dark" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=leandrof-dev&theme=dark" height="195" />
 </p>
